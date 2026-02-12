@@ -33,3 +33,7 @@ th, td {
 /* There are also border styles, 
 I can make the border dotted, dashed, solid,
 double, etc. by using certain values */
+
+body {
+  background-image: linear-gradient(to bottom, black, pink);
+}
